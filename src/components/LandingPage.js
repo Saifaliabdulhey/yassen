@@ -63,7 +63,7 @@ function LandingPage() {
   return (
     <div className="landingPage">
       <div className="header">
-        <Link to="/"><img src={logo} /></Link>
+        <Link to="/yassen"><img src={logo} /></Link>
         <div className='title'>
           <h1>AL-SAFEE AL-MOTAHIDA</h1>
           <p>Transportation prices by states</p>
