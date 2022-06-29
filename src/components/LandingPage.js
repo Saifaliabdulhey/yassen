@@ -74,366 +74,367 @@ function LandingPage() {
         <Link className="link" to="/landing/california">
           <div className='grid-item'>
             <img src={california} />
-            <h1>California</h1>
+            <h1>CA-California</h1>
           </div>
         </Link>
+
         <Link className="link" to="/landing/delaware">
           <div className='grid-item'>
             <img src={delaware} />
-            <h1>Delaware</h1>
+            <h1>DE-Delaware</h1>
           </div>
         </Link>
         <Link className="link" to="/landing/texas">
           <div className='grid-item'>
             <img src={taxas} />
-            <h1>Texas</h1>
+            <h1>TX-Texas</h1>
           </div>
         </Link>
         <Link className="link" to="/landing/carolina">
           <div className='grid-item'>
             <img src={carolina} />
-            <h1>Carolina</h1>
+            <h1>CR-Carolina</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/connecticut">
           <div className='grid-item'>
             <img src={connecticut} />
-            <h1>Connecticut</h1>
+            <h1>CT-Connecticut</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/geogia">
           <div className='grid-item'>
             <img src={geogia} />
-            <h1>Geogia</h1>
+            <h1>GA-Georgia</h1>
           </div>
         </Link>
         <Link className="link" to="/landing/indiana">
           <div className='grid-item'>
             <img src={indiana} />
-            <h1>Indiana</h1>
+            <h1>IN-Indiana</h1>
           </div>
         </Link>
         <Link className="link" to="/landing/hampshire">
           <div className='grid-item'>
             <img src={hampshire} />
-            <h1>Hampshire</h1>
+            <h1>NH-Hampshire</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/maryland">
           <div className='grid-item'>
             <img src={maryland} />
-            <h1>Maryland</h1>
+            <h1>MY-Maryland</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/massachusetts">
           <div className='grid-item'>
             <img src={massachusetts} />
-            <h1>Massachusetts</h1>
+            <h1>MA-Massachusetts</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/newjersey">
           <div className='grid-item'>
             <img src={new_jersey} />
-            <h1>New jersey</h1>
+            <h1>NJ-New jersey</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/virginia">
           <div className='grid-item'>
             <img src={virginia} />
-            <h1>Virginia</h1>
+            <h1>VA-Virginia</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/alabama">
           <div className='grid-item'>
             <img src={alabama} />
-            <h1>Alabama</h1>
+            <h1>AL-Alabama</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/alaska">
           <div className='grid-item'>
             <img src={alaska} />
-            <h1>Alaska</h1>
+            <h1>AK-Alaska</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/americansaoa">
           <div className='grid-item'>
             <img src={american_saoa} />
-            <h1>American saoa</h1>
+            <h1>AS-American saoa</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/arizona">
           <div className='grid-item'>
             <img src={arizona} />
-            <h1>Arizona</h1>
+            <h1>AZ-Arizona</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/arkansas">
           <div className='grid-item'>
             <img src={arkansas} />
-            <h1>Arkansas</h1>
+            <h1>AR-Arkansas</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/colorado">
           <div className='grid-item'>
             <img src={colorado} />
-            <h1>Colorado</h1>
+            <h1>CO-Colorado</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/florida">
           <div className='grid-item'>
             <img src={florida} />
-            <h1>Florida</h1>
+            <h1>FL-Florida</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/guam">
           <div className='grid-item'>
             <img src={guam} />
-            <h1>Guam</h1>
+            <h1>GM-Guam</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/hawaii">
           <div className='grid-item'>
             <img src={hawaii} />
-            <h1>Hawaii</h1>
+            <h1>HI-Hawaii</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/districtOfColombia">
           <div className='grid-item'>
             <img src={district_of_colombia} />
-            <h1>District_of_colombia</h1>
+            <h1>D.C-District of colombia</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/idaho">
           <div className='grid-item'>
             <img src={idaho} />
-            <h1>Idaho</h1>
+            <h1>ID-Idaho</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/illinois">
           <div className='grid-item'>
             <img src={illinois} />
-            <h1>Illinois</h1>
+            <h1>IL-Illinois</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/iowa">
           <div className='grid-item'>
             <img src={iowa} />
-            <h1>Iowa</h1>
+            <h1>IO-Iowa</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/kansas">
           <div className='grid-item'>
             <img src={kansas} />
-            <h1>Kansas</h1>
+            <h1>KS-Kansas</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/kentuck">
           <div className='grid-item'>
             <img src={kentuck} />
-            <h1>Kentuck</h1>
+            <h1>KY-Kentucky</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/louisian">
           <div className='grid-item'>
             <img src={louisian} />
-            <h1>Louisian</h1>
+            <h1>LO-Louisian</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/maine">
           <div className='grid-item'>
             <img src={maine} />
-            <h1>Maine</h1>
+            <h1>ME-Maine</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/mexico">
           <div className='grid-item'>
             <img src={mexico} />
-            <h1>Mexico</h1>
+            <h1>MX-Mexico</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/michigan">
           <div className='grid-item'>
             <img src={michigan} />
-            <h1>Michigan</h1>
+            <h1>MI-Michigan</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/minnesota">
           <div className='grid-item'>
             <img src={minnesota} />
-            <h1>Minnesota</h1>
+            <h1>MN-Minnesota</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/mississippi">
           <div className='grid-item'>
             <img src={mississippi} />
-            <h1>Mississippi</h1>
+            <h1>MS-Mississippi</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/missouri">
           <div className='grid-item'>
             <img src={missouri} />
-            <h1>Missouri</h1>
+            <h1>MO-Missouri</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/montana">
           <div className='grid-item'>
             <img src={montana} />
-            <h1>Montana</h1>
+            <h1>MT-Montana</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/nebraska">
           <div className='grid-item'>
             <img src={nebraska} />
-            <h1>Nebraska</h1>
+            <h1>NE-Nebraska</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/nevada">
           <div className='grid-item'>
             <img src={nevada} />
-            <h1>Nevada</h1>
+            <h1>NV-Nevada</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/newyourk">
           <div className='grid-item'>
             <img src={newyourk} />
-            <h1>Newyourk</h1>
+            <h1>NY-New York</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/northCarolina">
           <div className='grid-item'>
             <img src={north_carolina} />
-            <h1>North carolina</h1>
+            <h1>NC-North carolina</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/northDakota">
           <div className='grid-item'>
             <img src={north_Dakota} />
-            <h1>North Dakota</h1>
+            <h1>ND-North Dakota</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/ohio">
           <div className='grid-item'>
             <img src={ohio} />
-            <h1>Ohio</h1>
+            <h1>OH-Ohio</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/oklahoma">
           <div className='grid-item'>
             <img src={oklahoma} />
-            <h1>Oklahoma</h1>
+            <h1>OK-Oklahoma</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/oregon">
           <div className='grid-item'>
             <img src={oregon} />
-            <h1>Oregon</h1>
+            <h1>OR-Oregon</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/puerto">
           <div className='grid-item'>
             <img src={pennsylvania} />
-            <h1>Pennsylvania</h1>
+            <h1>PA-Pennsylvania</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/southDakota">
         <div className='grid-item'>
           <img src={south_Dakota} />
-          <h1>South Dakota</h1>
+          <h1>SD-South Dakota</h1>
         </div>
       </Link>
 
         <Link className="link" to="/landing/rhodeisland">
           <div className='grid-item'>
             <img src={rhode_island} />
-            <h1>Rhode_island</h1>
+            <h1>RI-Rhode Island</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/tennessee">
           <div className='grid-item'>
             <img src={tennessee} />
-            <h1>Tennessee</h1>
+            <h1>TN-Tennessee</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/utah">
           <div className='grid-item'>
             <img src={utah} />
-            <h1>Utah</h1>
+            <h1>UT-Utah</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/vermont">
           <div className='grid-item'>
             <img src={vermont} />
-            <h1>Vermont</h1>
+            <h1>VT-Vermont</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/washington">
           <div className='grid-item'>
             <img src={washington} />
-            <h1>Washington</h1>
+            <h1>WA-Washington</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/westVirginia">
           <div className='grid-item'>
             <img src={west_virginia} />
-            <h1>West virginia</h1>
+            <h1>WV-West virginia</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/wisconsina">
           <div className='grid-item'>
             <img src={wisconsina} />
-            <h1>Wisconsina</h1>
+            <h1>WI-Wisconsina</h1>
           </div>
         </Link>
 
         <Link className="link" to="/landing/wyoming">
           <div className='grid-item'>
             <img src={wyoming} />
-            <h1>Wyoming</h1>
+            <h1>WY-Wyoming</h1>
           </div>
         </Link>
       </div>

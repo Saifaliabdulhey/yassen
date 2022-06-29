@@ -15,162 +15,308 @@ function California() {
       <div className="img_container">
         <Link className="link" to='/landing'> <img className="back" src={back} /></Link>
         <img className="watermark" src={north_carolina} />
-        <h1>North Carolina State</h1>
+        <h1>NC - North Carolina State</h1>
       </div>
       <div class="table-box">
         <div class="table-row table-head">
+          <div class="table-cell first-cell-Auction ">
+            <p>المزاد</p>
+          </div>
           <div class="table-cell first-cell">
-            <p>السعر</p>
+            <p>المدينة</p>
           </div>
-          <div class="table-cell">
-            <p>تفاصيل سعر النقل</p>
+          <div class="table-cell first-cell">
+            <p>سعر النقل (الاردن)</p>
           </div>
+          <div class="table-cell first-cell">
+            <p>سعر النقل (الامارات)</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>سعر النقل (ام قصر)</p>
+          </div>
+          <div class="first-cell table-cell border">
+            <p>سعر النقل (سيارة كبيرة)</p>
+          </div>
+
         </div>
         <div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,450$</p>
-            </div>
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سعر النقل البحري</a>
-            </div>
-          </div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,350$</p>
-            </div>
 
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سعر النقل الى دبي</a>
-            </div>
-          </div>
           <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>ASHEVILLE- IAA</p>
+            </div>
             <div class="table-cell first-cell">
-              <p>1,250$</p>
+              <p>FLETCHER</p>
             </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سعر النقل الى عمان</a>
-            </div>
-          </div>
-          <div class="table-row">
             <div class="table-cell first-cell">
-              <p>450$</p>
+              <p>$1,925</p>
             </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سعر فتح الحاوية</a>
-            </div>
-          </div>
-          <div class="table-row">
             <div class="table-cell first-cell">
-              <p>400$</p>
+              <p>$1,688</p>
             </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko"> النقل البحري من دبي الى البصرة</a>
-            </div>
-          </div>
-          <div class="table-row">
             <div class="table-cell first-cell">
-              <p>500$</p>
+              <p>$1,550</p>
             </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko"> النقل البحري من عمان الى البصرة</a>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
             </div>
           </div>
 
           <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>700$</p>
+            <div class="table-cell first-cell-Auction ">
+              <p>CHARLOTTE- IAA</p>
             </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">(نصف حاوية)سعر النقل لسيارة كبيرة</a>
+            <div class="table-cell first-cell">
+              <p>CHARLOTTE</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,925</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,688</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,550</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
             </div>
           </div>
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>CONCORD- IAA</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>CONCORD</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,925</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,688</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,550</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>GREENSBORO- IAA</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>GRAHAM</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,925</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,688</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,550</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>RALEIGH- IAA</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>CLAYTON</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,900</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,663</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,525</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>WILMINGTON- IAA</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>CASTLE HAYNE</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,925</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,688</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,550</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>CHINA GROVE- COPART</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>CHINA GROVE</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,900</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,663</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,525</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>LUMBERTON- COPART</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>LUMBERTON</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,925</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,688</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,550</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>MEBANE- COPART</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>MEBANE</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,925</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,688</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,550</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>MOCKSVILLE- COPART</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>MOCKSVILLE</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,925</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,688</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,550</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>RALEIGH COPART</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>DUNN</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,900</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,663</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,525</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+
+          <div class="table-row">
+          <div class="table-cell first-cell-Auction ">
+            <p>RALEIGH COPART</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>DUNN</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>$1,900</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>$1,663</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>$1,525</p>
+          </div>
+          <div class="table-cell first-cell border">
+            <p>+700$</p>
+          </div>
+        </div>
+
+        <div class="table-row">
+        <div class="table-cell first-cell-Auction ">
+          <p>MANHEIM STATESVILLE</p>
+        </div>
+        <div class="table-cell first-cell">
+          <p>STATESVILLE</p>
+        </div>
+        <div class="table-cell first-cell">
+          <p>$1,925</p>
+        </div>
+        <div class="table-cell first-cell">
+          <p>$1,788</p>
+        </div>
+        <div class="table-cell first-cell">
+          <p>$1,550</p>
+        </div>
+        <div class="table-cell first-cell border">
+          <p>+700$</p>
         </div>
       </div>
 
-      <div class="table-box">
-        <div class="table-row table-head">
-          <div class="table-cell first-cell">
-            <p>سعر النقل من امريكا الى البصرة</p>
-          </div>
-        </div>
-        <div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,450$</p>
-            </div>
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 4 صالون</a>
-            </div>
-          </div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>2,150$</p>
-            </div>
 
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 3 صالون وكبيرة</a>
-            </div>
-          </div>
-        </div>
-      </div>
 
-      <div class="table-box">
-        <div class="table-row table-head">
-          <div class="table-cell first-cell">
-            <p>سعر النقل من امريكا الى عمان </p>
+          <div className='notes'>
+            <h1>ملاحضات</h1>
+            <i>تكون كلفت النقل الداخلي
+              للسيارة ذات الحجم الكبيرة مثل الدوج رام والسوبر بين وغيرها اعلى
+              بقليل بسبب الفرق في بالوزن والحجم مقارنة بالمركبات الاعتيادية -</i>
+            <i>تتكون كلفت النقل الداخلي من الولايات ذات الكوارث الطبيعية (الغرق , الاعاصير, العواصف الثلجية) اعلى خلال فترة هذه الكوارث  -</i>
+            <i>تكون كلفة النقل الداخلي بالنسبة للساحات الخارج المزاد اعلى بقليل حسب بعد الساحة الثانوية
+              عن موقع المزاد يرجى الاستفسار عن السعر قبل الشراء -</i>
           </div>
-        </div>
-        <div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,250$</p>
-            </div>
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 4 صالون</a>
-            </div>
-          </div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,950$</p>
-            </div>
 
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 3 صالون وكبيرة</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="table-box">
-        <div class="table-row table-head">
-          <div class="table-cell first-cell">
-            <p>سعر النقل من امريكا الى دبي </p>
-          </div>
-        </div>
-        <div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,350$</p>
-            </div>
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 4 صالون</a>
-            </div>
-          </div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>2,050$</p>
-            </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 3 صالون وكبيرة</a>
-            </div>
-          </div>
         </div>
       </div>
     </div>

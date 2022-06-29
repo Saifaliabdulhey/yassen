@@ -15,162 +15,104 @@ function California() {
       <div className="img_container">
         <Link className="link" to='/landing'> <img className="back" src={back} /></Link>
         <img className="watermark" src={west_Virginia} />
-        <h1>West Virginia State</h1>
+        <h1>WV - West Virginia State</h1>
       </div>
       <div class="table-box">
         <div class="table-row table-head">
+          <div class="table-cell first-cell-Auction ">
+            <p>المزاد</p>
+          </div>
           <div class="table-cell first-cell">
-            <p>السعر</p>
+            <p>المدينة</p>
           </div>
-          <div class="table-cell">
-            <p>تفاصيل سعر النقل</p>
+          <div class="table-cell first-cell">
+            <p>سعر النقل (الاردن)</p>
           </div>
+          <div class="table-cell first-cell">
+            <p>سعر النقل (الامارات)</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>سعر النقل (ام قصر)</p>
+          </div>
+          <div class="first-cell table-cell border">
+            <p>سعر النقل (سيارة كبيرة)</p>
+          </div>
+
         </div>
         <div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,700$</p>
-            </div>
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سعر النقل البحري</a>
-            </div>
-          </div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,600$</p>
-            </div>
 
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سعر النقل الى دبي</a>
-            </div>
-          </div>
           <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,500$</p>
+            <div class="table-cell first-cell-Auction ">
+              <p>BUCKHANNON- IAA</p>
             </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سعر النقل الى عمان</a>
+            <div class="table-cell first-cell">
+              <p>BUCKHANNON</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>2,288$</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>2,100$</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>2,100$</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
             </div>
           </div>
           <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>450$</p>
+            <div class="table-cell first-cell-Auction ">
+              <p>SHADY SPRING - IAA</p>
             </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سعر فتح الحاوية</a>
+            <div class="table-cell first-cell">
+              <p>SHADY SPRING</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>2,288$</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>2,100$</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>2,100$</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
             </div>
           </div>
           <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>CHARLESTON- COPART</p>
+            </div>
             <div class="table-cell first-cell">
-              <p>400$</p>
+              <p>HURRICANE</p>
             </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko"> النقل البحري من دبي الى البصرة</a>
-            </div>
-          </div>
-          <div class="table-row">
             <div class="table-cell first-cell">
-              <p>500$</p>
+              <p>2,288$</p>
             </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko"> النقل البحري من عمان الى البصرة</a>
-            </div>
-          </div>
-
-          <div class="table-row">
             <div class="table-cell first-cell">
-              <p>700$</p>
+              <p>2,100$</p>
             </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">(نصف حاوية)سعر النقل لسيارة كبيرة</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="table-box">
-        <div class="table-row table-head">
-          <div class="table-cell first-cell">
-            <p>سعر النقل من امريكا الى البصرة</p>
-          </div>
-        </div>
-        <div>
-          <div class="table-row">
             <div class="table-cell first-cell">
-              <p>1,700$</p>
+              <p>2,100$</p>
             </div>
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 4 صالون</a>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
             </div>
           </div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>2,400$</p>
-            </div>
 
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 3 صالون وكبيرة</a>
-            </div>
-          </div>
-        </div>
-      </div>
 
-      <div class="table-box">
-        <div class="table-row table-head">
-          <div class="table-cell first-cell">
-            <p>سعر النقل من امريكا الى عمان </p>
+          <div className='notes'>
+            <h1>ملاحضات</h1>
+            <i>تكون كلفت النقل الداخلي
+              للسيارة ذات الحجم الكبيرة مثل الدوج رام والسوبر بين وغيرها اعلى
+              بقليل بسبب الفرق في بالوزن والحجم مقارنة بالمركبات الاعتيادية -</i>
+            <i>تتكون كلفت النقل الداخلي من الولايات ذات الكوارث الطبيعية (الغرق , الاعاصير, العواصف الثلجية) اعلى خلال فترة هذه الكوارث  -</i>
+            <i>تكون كلفة النقل الداخلي بالنسبة للساحات الخارج المزاد اعلى بقليل حسب بعد الساحة الثانوية
+              عن موقع المزاد يرجى الاستفسار عن السعر قبل الشراء -</i>
           </div>
-        </div>
-        <div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,500$</p>
-            </div>
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 4 صالون</a>
-            </div>
-          </div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>2,200$</p>
-            </div>
 
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 3 صالون وكبيرة</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="table-box">
-        <div class="table-row table-head">
-          <div class="table-cell first-cell">
-            <p>سعر النقل من امريكا الى دبي </p>
-          </div>
-        </div>
-        <div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>1,600$</p>
-            </div>
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 4 صالون</a>
-            </div>
-          </div>
-          <div class="table-row">
-            <div class="table-cell first-cell">
-              <p>2,300$</p>
-            </div>
-
-            <div class="table-cell last-cell">
-              <a href="https://youtu.be/99vHH_6F0Ko">سيارات 3 صالون وكبيرة</a>
-            </div>
-          </div>
         </div>
       </div>
     </div>
