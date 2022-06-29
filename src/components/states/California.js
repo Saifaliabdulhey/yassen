@@ -9,7 +9,7 @@ function California() {
     <div className="container">
       <div className="head">
         <img className="watermark" src={logo} />
-        <h1>CA - AL-SAFEE AL-MOTAHIDA</h1>
+        <h1>AL-SAFEE AL-MOTAHIDA</h1>
       </div>
       <hr></hr>
       <div className="img_container">
