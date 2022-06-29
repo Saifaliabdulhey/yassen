@@ -11,6 +11,7 @@ function Home() {
       <p>Our company is all time active
         we can help you find your nice american car!</p>
       <Link to='/landing'><button to='/landing'>View States</button></Link>
+      <div class="elfsight-app-e020585a-69ae-4291-87df-3b67169af5cf"></div>
     </div>
   )
 }

@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import california from '../images/california.png'
 import logo from '../images/logo.png';
 import taxas from '../images/taxas.png';
@@ -56,17 +56,25 @@ import delaware from '../images/delaware.webp'
 import indiana from '../images/indiana.png'
 import south_Dakota from '../images/south_Dakota.png'
 import { Link } from 'react-router-dom'
+import AOS from "aos";
 
 
 
 function LandingPage() {
+
+  useEffect(() => {
+    AOS.init({
+    });
+  }, []);
+
   return (
     <div className="landingPage">
       <div className="header">
-        <Link to="/yassen"><img src={logo} /></Link>
+        <Link to="/yassen"><img data-aos="fade-right" data-aos-duration="2300" src={logo} /></Link>
         <div className='title'>
-          <h1>AL-SAFEE AL-MOTAHIDA</h1>
-          <p>Transportation prices by states</p>
+          <h1 data-aos="fade-up" data-aos-duration="1000">AL-SAFEE AL-MOTAHIDA</h1>
+          <p data-aos="fade-up" data-aos-duration="1500">Transportation prices by states</p>
+          <button data-aos="fade-up" data-aos-duration="2500">About AL-SAFEE COMPANY</button>
         </div>
       </div>
       <hr></hr>
