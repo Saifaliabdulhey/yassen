@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yassen/static/css/main.f7a55daf.css",
-    "main.js": "/yassen/static/js/main.fd91c80b.js",
+    "main.css": "/yassen/static/css/main.4d2b937d.css",
+    "main.js": "/yassen/static/js/main.516ba792.js",
     "static/js/787.56c79d13.chunk.js": "/yassen/static/js/787.56c79d13.chunk.js",
     "static/media/logo.png": "/yassen/static/media/logo.de77b58e150685008081.png",
     "static/media/pennsylvania.png": "/yassen/static/media/pennsylvania.d89911f700ebf07f020a.png",
@@ -57,12 +57,12 @@
     "static/media/back.png": "/yassen/static/media/back.6735b8aaa54fd1702599.png",
     "static/media/taxas.png": "/yassen/static/media/taxas.9290db0e2b446e901be3.png",
     "index.html": "/yassen/index.html",
-    "main.f7a55daf.css.map": "/yassen/static/css/main.f7a55daf.css.map",
-    "main.fd91c80b.js.map": "/yassen/static/js/main.fd91c80b.js.map",
+    "main.4d2b937d.css.map": "/yassen/static/css/main.4d2b937d.css.map",
+    "main.516ba792.js.map": "/yassen/static/js/main.516ba792.js.map",
     "787.56c79d13.chunk.js.map": "/yassen/static/js/787.56c79d13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7a55daf.css",
-    "static/js/main.fd91c80b.js"
+    "static/css/main.4d2b937d.css",
+    "static/js/main.516ba792.js"
   ]
 }
