@@ -43,150 +43,26 @@ function California() {
 
         <div class="table-row">
           <div class="table-cell first-cell-Auction ">
-            <p>BIRMINGHAM-IAA</p>
+            <p>ALASKA-IAA</p>
           </div>
           <div class="table-cell first-cell">
-            <p>BESSEMER</p>
+            <p>ALASKA</p>
           </div>
           <div class="table-cell first-cell">
-            <p>2,000$</p>
+            <p>4,500$</p>
           </div>
           <div class="table-cell first-cell">
-            <p>1,763</p>
+            <p>4,500$</p>
           </div>
           <div class="table-cell first-cell">
-            <p>1,625$</p>
+            <p>5,000 $</p>
           </div>
           <div class="table-cell first-cell border">
             <p>+700$</p>
           </div>
         </div>
 
-        <div class="table-row">
-          <div class="table-cell first-cell-Auction ">
-            <p>DOTHAN-IAA</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>HEADLAND</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>2,000$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,763$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,625$</p>
-          </div>
-          <div class="table-cell first-cell border">
-            <p>+700$</p>
-          </div>
-        </div>
-
-        <div class="table-row">
-          <div class="table-cell first-cell-Auction ">
-            <p>HUNTSVILLE-IAA</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>ATHENS</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>2,000$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,763$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,625$</p>
-          </div>
-          <div class="table-cell first-cell border">
-            <p>+700$</p>
-          </div>
-        </div>
-
-        <div class="table-row">
-          <div class="table-cell first-cell-Auction ">
-            <p>BIRMINGHAM-COPART</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>HUEYTOWN</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>2,000$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,763$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,625$</p>
-          </div>
-          <div class="table-cell first-cell border">
-            <p>+700$</p>
-          </div>
-        </div>
-
-        <div class="table-row">
-          <div class="table-cell first-cell-Auction ">
-            <p>MOBILE-COPART</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>EIGHT MILE</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>2,000$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,763$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,625$</p>
-          </div>
-          <div class="table-cell first-cell border">
-            <p>+700$</p>
-          </div>
-        </div>
-
-        <div class="table-row">
-          <div class="table-cell first-cell-Auction ">
-            <p>MONTGOMERY-COPART</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>MONTGOMERY</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>2,000$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,763$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,625$</p>
-          </div>
-          <div class="table-cell first-cell border">
-            <p>+700$</p>
-          </div>
-        </div>
-
-        <div class="table-row">
-          <div class="table-cell first-cell-Auction ">
-            <p>TANNER-COPART</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>TANNER</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>2,000$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,763$</p>
-          </div>
-          <div class="table-cell first-cell">
-            <p>1,625$</p>
-          </div>
-          <div class="table-cell first-cell border">
-            <p>+700$</p>
-          </div>
-        </div>
+    
 
         <div className='notes'>
         <h1>ملاحضات</h1>
