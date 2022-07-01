@@ -59,6 +59,12 @@ import { Link } from 'react-router-dom'
 import AOS from "aos";
 import data from './data'
 import search from '../images/search.png'
+import Modal from 'react-modal'
+import close from '../images/close.png'
+import telegram from '../images/telegram.png'
+import facebook from '../images/face.png'
+import instagram from '../images/instagram1.png'
+import location from '../images/locatiaon.png'
 
 
 
@@ -68,8 +74,18 @@ function LandingPage() {
     setFilter(event.target.value);
   }
 
+  const [modalIsOpen, setModalIsOpen] = useState(false);
+
+  const setModalIsOpenToTrue = () => {
+    setModalIsOpen(true)
+  }
+
+  const setModalIsOpenToFalse = () => {
+    setModalIsOpen(false)
+  }
+
   let dataSearch = data.stateData.filter(item => {
-    return Object.keys(item).some(key => 
+    return Object.keys(item).some(key =>
       item[key].toString().toLowerCase().includes(filter.toString().toLowerCase())
     )
   });
@@ -81,18 +97,52 @@ function LandingPage() {
 
   return (
     <div className="landingPage">
+      <Modal
+        isOpen={modalIsOpen}
+        closeTimeoutMS={200}
+        className='modal'
+        backdropClassName="my-backdrop-style"
+      >
+        <button className="close" onClick={setModalIsOpenToFalse}><img src={close} /></button>
+        <div className="modal-content">
+          <div className="modal_img">
+            <img src={logo} />
+          </div>
+          <div className="modal_info">
+            <h1> شركة الصافي المتحدة</h1>
+            <h3> للتواصل معنا عن طريق</h3>
+            <div className="contact_icons">
+            <a href="https://www.facebook.com/AlsafieCo/"><img src={facebook}/></a>
+            <a href="https://www.instagram.com/4fd4/"><img src={instagram} /></a>
+            <img src={telegram} />
+            </div>
+            <h3>او الاتصال على الارقام</h3>
+            <div className="contact_icons">
+            <li>07729488987</li>
+            <li>07729488987</li>
+            <li>07729488987</li>
+            </div>
+
+            <div className="location">
+            <img src={location}/>
+            <h3> الجزائر (شارع كيا سابقا) قرب مطعم باربكيو</h3>
+            </div>
+          </div>
+        </div>
+      </Modal>
+
       <div className="header">
         <Link to="/yassen"><img data-aos="fade-right" data-aos-duration="2300" src={logo} /></Link>
         <div className='title'>
           <h1 data-aos="fade-up" data-aos-duration="1000">AL-SAFEE AL-MOTAHIDA</h1>
           <p data-aos="fade-up" data-aos-duration="1500">Transportation prices by states</p>
-          <button data-aos="fade-up" data-aos-duration="2500">About AL-SAFEE COMPANY</button>
+          <button onClick={setModalIsOpenToTrue} data-aos="fade-up" data-aos-duration="2500">About AL-SAFEE COMPANY</button>
         </div>
       </div>
       <div class="search_container">
-      <img src={search} />
+        <img src={search} />
         <input
-        className="search-box"
+          className="search-box"
           type="text" value={filter}
           onChange={searchText.bind(this)}
         />

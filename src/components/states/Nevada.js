@@ -52,7 +52,7 @@ function California() {
               <p>2,800$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,738$</p>
+              <p>2,738$</p>
             </div>
             <div class="table-cell first-cell">
               <p>2,970$</p>
@@ -73,7 +73,7 @@ function California() {
               <p>2,900$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,838$</p>
+              <p>2,838$</p>
             </div>
             <div class="table-cell first-cell">
               <p>3,070$</p>
@@ -94,10 +94,10 @@ function California() {
               <p>2,800$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,738$</p>
+              <p>2,738$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,970$</p>
+              <p>2,970$</p>
             </div>
             <div class="table-cell first-cell border">
               <p>+700$</p>
@@ -115,7 +115,7 @@ function California() {
               <p>2,900$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,838$</p>
+              <p>2,838$</p>
             </div>
             <div class="table-cell first-cell">
               <p>3,070$</p>
@@ -137,7 +137,7 @@ function California() {
               <p>2,800$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>1,738$</p>
+              <p>2,738$</p>
             </div>
             <div class="table-cell first-cell">
               <p>2,970$</p>

@@ -129,3 +129,131 @@
     }
 }
 
+
+.modal {
+    background: #060c217c;
+    margin: auto;
+    backdrop-filter: blur(40px);
+    border-radius: 2%;
+    outline: none;
+    box-shadow: 0 0 5px 5px rgb(241, 8, 58);
+    width: 80%;
+    height: 900px;
+    z-index: 10;
+
+}
+
+// }
+
+.ReactModalPortal .ReactModal__Overlay {
+    align-items: center;
+    justify-content:center;
+    display:flex;
+}
+
+.modal_container {
+    position: relative;
+}
+
+.ReactModalPortal .ReactModal__Overlay--after-open {
+    opacity: 1;
+}
+
+
+.ReactModalPortal .ReactModal__Overlay--before-close {
+    opacity: 0;
+}
+
+.modal-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.close {
+    background: none;
+    border: none;
+    margin: 10px;
+
+    img {
+        width: 30px;
+        filter: invert(100%);
+        transition: all 0.3s;
+        &:hover {
+            cursor: pointer;
+            transform:scale(1.2); ;
+        }
+       
+    }
+}
+
+.modal-content {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+
+    @media (max-width: 668px) {
+        flex-direction: column;
+
+        img {
+            width: 100px;
+        }
+    }
+
+    .modal_img {
+        margin: 80px;
+        img {
+            width: 400px;
+        }
+    }
+
+
+    .modal_info {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+        h1 {
+            color: #fff;
+            margin: 50px;
+            font-size: 42px;
+        }
+
+        h3 {
+            margin: 40px;
+            font-size: 22px;
+            color: #fff;
+        }
+
+
+        .contact_icons {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            img {
+                width: 80px;
+                margin: 20px;
+            }
+
+            li {
+                font-size: 24px;
+                color: #fff;
+                margin: 20px;
+            }
+        }
+    }
+}
+
+
+.location {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    margin-top: 50px;
+    img {
+        width: 80px;
+        filter: invert(100%);
+    }
+}

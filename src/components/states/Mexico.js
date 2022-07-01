@@ -15,7 +15,7 @@ function California() {
       <div className="img_container">
         <Link className="link" to='/landing'> <img className="back" src={back} /></Link>
         <img className="watermark" src={mexico} />
-        <h1>ME - Mexico State</h1>
+        <h1>NM - Mexico State</h1>
       </div>
       <div class="table-box">
         <div class="table-row table-head">
