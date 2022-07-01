@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yassen/static/css/main.4d2b937d.css",
-    "main.js": "/yassen/static/js/main.516ba792.js",
+    "main.css": "/yassen/static/css/main.2c6b90dc.css",
+    "main.js": "/yassen/static/js/main.7e417e0a.js",
     "static/js/787.56c79d13.chunk.js": "/yassen/static/js/787.56c79d13.chunk.js",
     "static/media/logo.png": "/yassen/static/media/logo.de77b58e150685008081.png",
     "static/media/pennsylvania.png": "/yassen/static/media/pennsylvania.d89911f700ebf07f020a.png",
@@ -49,20 +49,23 @@
     "static/media/tennessee.png": "/yassen/static/media/tennessee.2befc630d08f6320c42d.png",
     "static/media/delaware.webp": "/yassen/static/media/delaware.52e3589d212d13d9d32e.webp",
     "static/media/maryland.png": "/yassen/static/media/maryland.b72e99b2e83c20102a0e.png",
+    "static/media/instagram1.png": "/yassen/static/media/instagram1.eabb84b9ec51170f5df7.png",
     "static/media/south_Carolina.svg": "/yassen/static/media/south_Carolina.0f686512b3c81ce7902a20517bedecd8.svg",
     "static/media/indiana.png": "/yassen/static/media/indiana.89474f18afe68399e813.png",
     "static/media/colorado.png": "/yassen/static/media/colorado.2fd0530df6994e2d821d.png",
     "static/media/alaska.png": "/yassen/static/media/alaska.3bf3cc73cd0d7167f8f0.png",
+    "static/media/telegram.png": "/yassen/static/media/telegram.f7bd334fa8442bf565c6.png",
     "static/media/mexico.png": "/yassen/static/media/mexico.6ef2f66788301693e948.png",
+    "static/media/close.png": "/yassen/static/media/close.9aad8492e7943636cd12.png",
     "static/media/back.png": "/yassen/static/media/back.6735b8aaa54fd1702599.png",
     "static/media/taxas.png": "/yassen/static/media/taxas.9290db0e2b446e901be3.png",
     "index.html": "/yassen/index.html",
-    "main.4d2b937d.css.map": "/yassen/static/css/main.4d2b937d.css.map",
-    "main.516ba792.js.map": "/yassen/static/js/main.516ba792.js.map",
+    "main.2c6b90dc.css.map": "/yassen/static/css/main.2c6b90dc.css.map",
+    "main.7e417e0a.js.map": "/yassen/static/js/main.7e417e0a.js.map",
     "787.56c79d13.chunk.js.map": "/yassen/static/js/787.56c79d13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d2b937d.css",
-    "static/js/main.516ba792.js"
+    "static/css/main.2c6b90dc.css",
+    "static/js/main.7e417e0a.js"
   ]
 }
