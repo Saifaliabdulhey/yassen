@@ -49,7 +49,7 @@ function California() {
               <p>NEW PHILADELPHIA</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,088$</p>
+              <p>2,188$</p>
             </div>
             <div class="table-cell first-cell">
               <p>2,000$</p>

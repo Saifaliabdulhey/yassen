@@ -9,7 +9,8 @@ import Alaska from './components/states/Alaska'
 import AmericanSaoa from './components/states/AmericanSaoa'
 import Arizona from './components/states/Arizona'
 import Arkansas from './components/states/Arkansas'
-import Carolina from './components/states/Carolina'
+import Dc from './components/states/Dc'
+import SouthCarolina from './components/states/SouthCarolina'
 import Colorado from './components/states/Colorado'
 import Connecticut from './components/states/Connecticut'
 import DistrictOfColombia from './components/states/DistrictOfColombia'
@@ -65,13 +66,14 @@ function App() {
           <Route path="/yassen" element={<Home />} />
           <Route path="/landing/california" element={<California />} />
           <Route path="/landing/southDakota" element={<SouthDakota />} />
+          <Route path="/landing/southCarolina" element={<SouthCarolina />} />
           <Route path="/landing/indiana" element={<Indiana />} />
           <Route path="/landing/alabama" element={<Alabama />} />
           <Route path="/landing/alaska" element={<Alaska />} />
           <Route path="/landing/americanSaoa" element={<AmericanSaoa />} />
           <Route path="/landing/arizona" element={<Arizona />} />
           <Route path="/landing/arkansas" element={<Arkansas />} />
-          <Route path="/landing/carolina" element={<Carolina />} />
+          <Route path="/landing/dc" element={<Dc />} />
           <Route path="/landing/texas" element={<Texas />} />
           <Route path="/landing/guam" element={<Guam />} />
           <Route path="/landing/hampshire" element={<Hampshire />} />

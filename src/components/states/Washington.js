@@ -41,26 +41,6 @@ function California() {
         </div>
         <div>
 
-          <div class="table-row">
-            <div class="table-cell first-cell-Auction ">
-              <p>WASHINGTON DC COPART</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>WALDORF</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>2,063$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,875$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,875$</p>
-            </div>
-            <div class="table-cell first-cell border">
-              <p>+700$</p>
-            </div>
-          </div>
 
           <div class="table-row">
             <div class="table-cell first-cell-Auction ">
@@ -91,7 +71,7 @@ function California() {
               <p>SPOKANE</p>
             </div>
             <div class="table-cell first-cell">
-              <p>3,025$</p>
+              <p>3,225$</p>
             </div>
             <div class="table-cell first-cell">
               <p>3,163$</p>

@@ -52,6 +52,7 @@ import wyoming from '../images/wyoming.png'
 import delaware from '../images/delaware.webp'
 import indiana from '../images/indiana.png'
 import south_Dakota from '../images/south_Dakota.png'
+import dc from '../images/dc.png'
 
 
 
@@ -69,6 +70,7 @@ export  const data = {
             img:taxas,
             name: 'TX-Texas'
         },
+        
         {
             id:3,
             link:'/landing/connecticut',
@@ -143,7 +145,7 @@ export  const data = {
         },
         {
             id:15,
-            link:'/landing/pennsylvania',
+            link:'/landing/puerto',
             img:pennsylvania,
             name: 'PA-Pennsylvania'
         },
@@ -221,9 +223,9 @@ export  const data = {
         },
         {
             id:28,
-            link:'/landing/northDakota',
-            img:north_Dakota,
-            name: 'ND-North Dakota'
+            link:'/landing/dc',
+            img:dc,
+            name: 'DC-Washington DC'
         },
         {
             id:29,
@@ -350,6 +352,18 @@ export  const data = {
             link:'/landing/montana',
             img:montana,
             name: 'MT-Montana'
+        },
+        {
+            id:50,
+            link:'/landing/northCarolina',
+            img:north_carolina,
+            name: 'NC-North Carolina'
+        },
+        {
+            id:51,
+            link:'/landing/southCarolina',
+            img:south_Carolina,
+            name: 'SC-South Carolina'
         },
         
     ]

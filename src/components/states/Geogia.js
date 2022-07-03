@@ -293,6 +293,26 @@ function California() {
             </div>
           </div>
 
+          <div class="table-row">
+          <div class="table-cell first-cell-Auction ">
+            <p>MANHEIM DARLINGTON</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>DARLINGTON</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>$1,875</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>$1,638</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>1,500$</p>
+          </div>
+          <div class="table-cell first-cell border">
+            <p>+700$</p>
+          </div>
+        </div>
           <div className='notes'>
             <h1>ملاحضات</h1>
             <i>تكون كلفت النقل الداخلي

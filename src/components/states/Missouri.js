@@ -175,13 +175,13 @@ function California() {
               <p>BRIDGETON</p>
             </div>
             <div class="table-cell first-cell">
-              <p>$2,413</p>
+              <p>$2,313</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,225$</p>
+              <p>2,125$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,225$</p>
+              <p>2,125$</p>
             </div>
             <div class="table-cell first-cell border">
               <p>+700$</p>

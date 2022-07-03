@@ -292,10 +292,10 @@ function California() {
           <p>STATESVILLE</p>
         </div>
         <div class="table-cell first-cell">
-          <p>$1,925</p>
+          <p>$2,925</p>
         </div>
         <div class="table-cell first-cell">
-          <p>$1,788</p>
+          <p>$1,688</p>
         </div>
         <div class="table-cell first-cell">
           <p>$1,550</p>

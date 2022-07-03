@@ -1,10 +1,10 @@
 import React from 'react'
-import arkansas from '../../images/arkansas.png'
+import dc from '../../images/dc.png'
 import logo from '../../images/logo.png'
 import back from '../../images/back.png'
 import { Link } from 'react-router-dom';
 
-function California() {
+function Dc() {
   return (
     <div className="container">
       <div className="head">
@@ -14,8 +14,8 @@ function California() {
       <hr></hr>
       <div className="img_container">
         <Link className="link" to='/landing'> <img className="back" src={back} /></Link>
-        <img className="watermark" src={arkansas} />
-        <h1>AR - Arkansas State</h1>
+        <img className="watermark" src={dc} />
+        <h1>DC- Washington DC State</h1>
       </div>
       <div class="table-box">
       <div class="table-row table-head">
@@ -43,88 +43,26 @@ function California() {
 
       <div class="table-row">
       <div class="table-cell first-cell-Auction ">
-        <p>FAYETTEVILLE- IAA</p>
+        <p>WASHINGTON DC COPART</p>
       </div>
       <div class="table-cell first-cell">
-        <p>LICOLIN</p>
+        <p>WALDORF</p>
       </div>
       <div class="table-cell first-cell">
-        <p>2,100$</p>
-      </div>
-      <div class="table-cell first-cell">
-        <p>1,875$</p>
-      </div>
-      <div class="table-cell first-cell">
-        <p>1,900$</p>
-      </div>
-      <div class="table-cell first-cell border">
-        <p>+700$</p>
-      </div>
-    </div>
-
-    <div class="table-row">
-      <div class="table-cell first-cell-Auction ">
-        <p>LITTLE ROCK- IAA</p>
-      </div>
-      <div class="table-cell first-cell">
-        <p>SCOTT</p>
-      </div>
-      <div class="table-cell first-cell">
-        <p>2,050$</p>
+        <p>2,063$</p>
       </div>
       <div class="table-cell first-cell">
         <p>1,875$</p>
       </div>
       <div class="table-cell first-cell">
-        <p>1,850$</p>
-      </div>
-      <div class="table-cell first-cell border">
-        <p>+700$</p>
-      </div>
-    </div>
-
-    <div class="table-row">
-      <div class="table-cell first-cell-Auction ">
-        <p>FAYETTEVILLE COPART</p>
-      </div>
-      <div class="table-cell first-cell">
-        <p>PRAIRIE GROVE</p>
-      </div>
-      <div class="table-cell first-cell">
-        <p>2,100$</p>
-      </div>
-      <div class="table-cell first-cell">
         <p>1,875$</p>
       </div>
-      <div class="table-cell first-cell">
-        <p>1,900$</p>
-      </div>
       <div class="table-cell first-cell border">
         <p>+700$</p>
       </div>
     </div>
 
-    <div class="table-row">
-      <div class="table-cell first-cell-Auction ">
-        <p>LITTLE ROCK- COPART</p>
-      </div>
-      <div class="table-cell first-cell">
-        <p>CONWAY</p>
-      </div>
-      <div class="table-cell first-cell">
-        <p>2,050$</p>
-      </div>
-      <div class="table-cell first-cell">
-        <p>1,825$</p>
-      </div>
-      <div class="table-cell first-cell">
-        <p>1,850$</p>
-      </div>
-      <div class="table-cell first-cell border">
-        <p>+700$</p>
-      </div>
-    </div>
-
+       
         <div className='notes'>
         <h1>ملاحضات</h1>
         <i>تكون كلفت النقل الداخلي
@@ -141,4 +79,4 @@ function California() {
   )
 }
 
-export default California
+export default Dc

@@ -42,89 +42,6 @@ function California() {
         </div>
         <div>
 
-          <div class="table-row">
-            <div class="table-cell first-cell-Auction ">
-              <p>FAYETTEVILLE- IAA</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>LICOLIN</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>2,100$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,875$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,900$</p>
-            </div>
-            <div class="table-cell first-cell border">
-              <p>+700$</p>
-            </div>
-          </div>
-
-          <div class="table-row">
-            <div class="table-cell first-cell-Auction ">
-              <p>LITTLE ROCK- IAA</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>SCOTT</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>2,050$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,875$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,850$</p>
-            </div>
-            <div class="table-cell first-cell border">
-              <p>+700$</p>
-            </div>
-          </div>
-
-          <div class="table-row">
-            <div class="table-cell first-cell-Auction ">
-              <p>FAYETTEVILLE COPART</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>PRAIRIE GROVE</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>2,100$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,875$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,900$</p>
-            </div>
-            <div class="table-cell first-cell border">
-              <p>+700$</p>
-            </div>
-          </div>
-
-          <div class="table-row">
-            <div class="table-cell first-cell-Auction ">
-              <p>LITTLE ROCK- COPART</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>CONWAY</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>2,050$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,825$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,850$</p>
-            </div>
-            <div class="table-cell first-cell border">
-              <p>+700$</p>
-            </div>
-          </div>
 
           <div class="table-row">
             <div class="table-cell first-cell-Auction ">
@@ -197,13 +114,13 @@ function California() {
               <p>TUCSON</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,775$</p>
+              <p>2,825$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,713$</p>
+              <p>2,763$</p>
             </div>
             <div class="table-cell first-cell">
-              <p>2,975$</p>
+              <p>2,995$</p>
             </div>
             <div class="table-cell first-cell border">
               <p>+700$</p>

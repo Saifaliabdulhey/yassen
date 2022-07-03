@@ -175,13 +175,13 @@ function California() {
             <p>MOUNT JULIET</p>
           </div>
           <div class="table-cell first-cell">
-            <p>2,075$</p>
+            <p>2,025$</p>
           </div>
           <div class="table-cell first-cell">
             <p>1,788$</p>
           </div>
           <div class="table-cell first-cell">
-            <p>1,550$</p>
+            <p>1,650$</p>
           </div>
           <div class="table-cell first-cell border">
             <p>+700$</p>

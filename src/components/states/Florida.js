@@ -450,6 +450,132 @@ function California() {
             </div>
           </div>
 
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>JACKSONVILLE WEST COPART</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>JACKSONVILLE</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,825</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,588</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,450</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>MIAMI NORTH COPART</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>MIAMI</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,925</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,688</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,550</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>MANHEIM FOR LAUDERDALE</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>DAVIE</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$2,025</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,788</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,650</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>MANHEIM BENSACOLA</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>BENSACOLA</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,975</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,738</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,600</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+
+
+          <div class="table-row">
+            <div class="table-cell first-cell-Auction ">
+              <p>MANHEIM FORT MYERS</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>FORT MYERS</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,925</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,688</p>
+            </div>
+            <div class="table-cell first-cell">
+              <p>$1,550</p>
+            </div>
+            <div class="table-cell first-cell border">
+              <p>+700$</p>
+            </div>
+          </div>
+
+          <div class="table-row">
+          <div class="table-cell first-cell-Auction ">
+            <p>MANHEIM CENTRAL FLORIDA</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>ORLANDO</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>$1,900</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>$1,663</p>
+          </div>
+          <div class="table-cell first-cell">
+            <p>$1,525</p>
+          </div>
+          <div class="table-cell first-cell border">
+            <p>+700$</p>
+          </div>
+        </div>
 
           <div className='notes'>
             <h1>ملاحضات</h1>
