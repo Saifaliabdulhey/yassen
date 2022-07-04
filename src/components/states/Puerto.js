@@ -61,27 +61,6 @@ function California() {
               <p>+700$</p>
             </div>
           </div>
-
-          <div class="table-row">
-            <div class="table-cell first-cell-Auction ">
-              <p>ALTOONA -IAA</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>EAST FREEDOM</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>$2,138</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,950$</p>
-            </div>
-            <div class="table-cell first-cell">
-              <p>1,950$</p>
-            </div>
-            <div class="table-cell first-cell border">
-              <p>+700$</p>
-            </div>
-          </div>
           <div class="table-row">
             <div class="table-cell first-cell-Auction ">
               <p>BRIDGEPORT IAA</p>

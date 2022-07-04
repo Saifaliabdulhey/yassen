@@ -500,13 +500,13 @@ function California() {
               <p>DAVIE</p>
             </div>
             <div class="table-cell first-cell">
-              <p>$2,025</p>
+              <p>$1,925</p>
             </div>
             <div class="table-cell first-cell">
-              <p>$1,788</p>
+              <p>$1,688</p>
             </div>
             <div class="table-cell first-cell">
-              <p>$1,650</p>
+              <p>$1,550</p>
             </div>
             <div class="table-cell first-cell border">
               <p>+700$</p>

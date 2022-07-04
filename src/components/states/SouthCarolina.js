@@ -154,13 +154,13 @@ function California() {
                             <p>GREER</p>
                         </div>
                         <div class="table-cell first-cell">
-                            <p>1,825$</p>
+                            <p>1,875$</p>
                         </div>
                         <div class="table-cell first-cell">
-                            <p>1,588$</p>
+                            <p>1,638$</p>
                         </div>
                         <div class="table-cell first-cell">
-                            <p>1,450$</p>
+                            <p>1,500$</p>
                         </div>
                         <div class="table-cell first-cell border">
                             <p>+700$</p>
@@ -175,18 +175,39 @@ function California() {
                             <p>SPARTANBURG</p>
                         </div>
                         <div class="table-cell first-cell">
-                            <p>1,825$</p>
+                            <p>1,875$</p>
                         </div>
                         <div class="table-cell first-cell">
-                            <p>1,588$</p>
+                            <p>1,638$</p>
                         </div>
                         <div class="table-cell first-cell">
-                            <p>1,450$</p>
+                            <p>1,500$</p>
                         </div>
                         <div class="table-cell first-cell border">
                             <p>+700$</p>
                         </div>
                     </div>
+
+                    <div class="table-row">
+                    <div class="table-cell first-cell-Auction ">
+                        <p>MANHEIM DARLINGTON</p>
+                    </div>
+                    <div class="table-cell first-cell">
+                        <p>DARLINGTON</p>
+                    </div>
+                    <div class="table-cell first-cell">
+                        <p>1,875$</p>
+                    </div>
+                    <div class="table-cell first-cell">
+                        <p>1,638$</p>
+                    </div>
+                    <div class="table-cell first-cell">
+                        <p>1,500$</p>
+                    </div>
+                    <div class="table-cell first-cell border">
+                        <p>+700$</p>
+                    </div>
+                </div>
 
 
 
